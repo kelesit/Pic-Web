@@ -7,7 +7,8 @@ from ..services.image_client import ImageServiceClient
 
 
 image_service = ImageServiceClient(
-    "http://localhost:9758",
+    # "http://localhost:9758",
+    "http://region-42.seetacloud.com:42322",
     "hsyzhendeshuai"
 )
 

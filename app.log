@@ -1,0 +1,58 @@
+2025-01-25 11:26:56,696 - backend.api.routes - INFO - Processing file: french widow.jpg, size: 8693841
+2025-01-25 11:28:01,412 - backend.api.routes - INFO - Processing file: french widow.jpg, size: 8693841
+2025-01-25 11:35:28,576 - backend.api.routes - INFO - Processing file: french widow.jpg, size: 8693841
+2025-01-25 14:56:26,496 - backend.api.routes - INFO - Processing file: french widow.jpg, size: 8693841
+2025-01-25 14:56:44,572 - backend.services.image_client - ERROR - Image processing failed: Internal Server Error
+2025-01-25 14:56:44,572 - backend.api.routes - ERROR - Image processing failed
+2025-01-25 14:56:44,572 - backend.api.routes - ERROR - Error processing image: 
+2025-01-25 15:01:16,350 - backend.api.routes - INFO - Processing file: french widow.jpg, size: 8693841
+2025-01-25 15:01:16,352 - backend.services.image_client - ERROR - Failed to communicate with image service: Cannot connect to host region-42.seetacloud.com:42322 ssl:default [nodename nor servname provided, or not known]
+2025-01-25 15:01:16,352 - backend.api.routes - ERROR - Error processing image: Cannot connect to host region-42.seetacloud.com:42322 ssl:default [nodename nor servname provided, or not known]
+2025-01-25 15:01:19,368 - backend.api.routes - INFO - Processing file: french widow.jpg, size: 8693841
+2025-01-25 15:01:31,862 - backend.services.image_client - ERROR - Image processing failed: Internal Server Error
+2025-01-25 15:01:31,863 - backend.api.routes - ERROR - Image processing failed
+2025-01-25 15:01:31,863 - backend.api.routes - ERROR - Error processing image: 
+2025-01-25 15:01:57,458 - backend.api.routes - INFO - Processing file: french widow.jpg, size: 8693841
+2025-01-25 15:02:10,835 - backend.services.image_client - ERROR - Image processing failed: Internal Server Error
+2025-01-25 15:02:10,835 - backend.api.routes - ERROR - Image processing failed
+2025-01-25 15:02:10,835 - backend.api.routes - ERROR - Error processing image: 
+2025-01-25 15:06:02,240 - backend.api.routes - INFO - Processing file: french widow.jpg, size: 8693841
+2025-01-25 15:06:21,058 - backend.services.image_client - ERROR - Image processing failed: {"detail":"Failed to process image"}
+2025-01-25 15:06:21,058 - backend.api.routes - ERROR - Image processing failed
+2025-01-25 15:06:21,058 - backend.api.routes - ERROR - Error processing image: 
+2025-01-25 15:08:32,182 - backend.api.routes - INFO - Processing file: french widow.jpg, size: 8693841
+2025-01-25 15:08:46,783 - backend.services.image_client - ERROR - Image processing failed: {"detail":"Failed to process image"}
+2025-01-25 15:08:46,784 - backend.api.routes - ERROR - Image processing failed
+2025-01-25 15:08:46,784 - backend.api.routes - ERROR - Error processing image: 
+2025-01-25 15:14:39,299 - backend.api.routes - INFO - Processing file: french widow.jpg, size: 8693841
+2025-01-25 15:14:55,733 - backend.services.image_client - ERROR - Image processing failed: {"detail":"Failed to process image"}
+2025-01-25 15:14:55,733 - backend.api.routes - ERROR - Image processing failed
+2025-01-25 15:14:55,734 - backend.api.routes - ERROR - Error processing image: 
+2025-01-25 15:15:24,860 - backend.api.routes - INFO - Processing file: french widow.jpg, size: 8693841
+2025-01-25 15:15:40,416 - backend.services.image_client - ERROR - Image processing failed: {"detail":"Failed to process image"}
+2025-01-25 15:15:40,417 - backend.api.routes - ERROR - Image processing failed
+2025-01-25 15:15:40,417 - backend.api.routes - ERROR - Error processing image: 
+2025-01-25 15:16:16,686 - backend.api.routes - INFO - Processing file: french widow.jpg, size: 8693841
+2025-01-25 15:16:28,413 - backend.services.image_client - ERROR - Image processing failed: {"detail":"Failed to process image"}
+2025-01-25 15:16:28,413 - backend.api.routes - ERROR - Image processing failed
+2025-01-25 15:16:28,414 - backend.api.routes - ERROR - Error processing image: 
+2025-01-25 15:19:27,536 - backend.api.routes - INFO - Processing file: french widow.jpg, size: 8693841
+2025-01-25 15:19:42,055 - backend.services.image_client - ERROR - Image processing failed: {"detail":"Failed to process image"}
+2025-01-25 15:19:42,056 - backend.api.routes - ERROR - Image processing failed
+2025-01-25 15:19:42,056 - backend.api.routes - ERROR - Error processing image: 
+2025-01-25 15:21:50,519 - backend.api.routes - INFO - Processing file: french widow.jpg, size: 8693841
+2025-01-25 15:22:07,631 - backend.services.image_client - ERROR - Image processing failed: {"detail":"Failed to process image"}
+2025-01-25 15:22:07,631 - backend.api.routes - ERROR - Image processing failed
+2025-01-25 15:22:07,631 - backend.api.routes - ERROR - Error processing image: 
+2025-01-25 15:23:29,634 - backend.api.routes - INFO - Processing file: french widow.jpg, size: 8693841
+2025-01-25 15:23:52,285 - backend.services.image_client - ERROR - Image processing failed: {"detail":"Failed to process image"}
+2025-01-25 15:23:52,285 - backend.api.routes - ERROR - Image processing failed
+2025-01-25 15:23:52,285 - backend.api.routes - ERROR - Error processing image: 
+2025-01-25 15:24:34,764 - backend.api.routes - INFO - Processing file: french widow.jpg, size: 8693841
+2025-01-25 15:25:24,442 - backend.services.image_client - ERROR - Image processing failed: {"detail":"Failed to process image"}
+2025-01-25 15:25:24,443 - backend.api.routes - ERROR - Image processing failed
+2025-01-25 15:25:24,443 - backend.api.routes - ERROR - Error processing image: 
+2025-01-25 15:26:34,583 - backend.api.routes - INFO - Processing file: french widow.jpg, size: 8693841
+2025-01-25 15:27:44,429 - backend.api.routes - INFO - Processing file: valorant-jett-.jpg, size: 2175797
+2025-01-25 15:44:46,463 - backend.api.routes - INFO - Processing file: french widow.jpg, size: 8693841
+2025-01-25 17:26:21,815 - backend.api.routes - INFO - Processing file: valorant-jett-.jpg, size: 2175797

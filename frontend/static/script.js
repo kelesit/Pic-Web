@@ -56,7 +56,10 @@ document.addEventListener('DOMContentLoaded', () => {
     processBtn.addEventListener('click', async() => {
         if (!currentFile) return;
 
+        // 显示加载提示
         loading.style.display = 'block';
+
+        // 创建一个 FormData 对象，用于发送文件
         const formData = new FormData();
         formData.append('image', currentFile);
 
@@ -80,4 +83,31 @@ document.addEventListener('DOMContentLoaded', () => {
             loading.style.display = 'none';
         }
     });
+
+    downloadBtn.addEventListener('click', () => {
+        try {
+            //验证图片是否存在
+            if (!preview.src) {
+                throw new Error('no image to download')
+            }
+
+            const a = document.createElement('a');
+            a.href = preview.src;
+            a.download = currentFile.name;
+
+            // 添加调试日志
+            console.log('Download link created:', {
+                href: a.href,
+                download: a.download
+            });
+
+            document.body.appendChild(a);
+            a.click();
+            document.body.removeChild(a);
+        } catch (error) {
+            console.error(error);
+            alert('Error downloading image');
+        }
+    });
+
 });
